@@ -142,4 +142,4 @@ d) sprawdzenie liczby warstw obrazu
 ```
 docker image inspect zadanie1-server --format '{{.RootFS.Layers}}'
 ```
-
+![Zrzut ekranu działającej aplikacji](https://github.com/MatqLorens/sw_mg2024/blob/master/2024-11-30_22-09.png?raw=true)
